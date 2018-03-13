@@ -1,0 +1,46 @@
+.root{
+   -fx-background-image:url("fondo1.jpg");    
+}
+#asteroide {
+   -fx-fill: red;
+   -fx-stroke:blue;
+   -fx-stroke-width: 3; 
+}
+#poligono1 {
+    -fx-fill: white;
+    -fx-stroke:red;
+    -fx-stroke-width: 2;
+}
+#poligono2 {
+    -fx-fill: white;
+    -fx-stroke:red;
+    -fx-stroke-width: 2;
+}
+#poligono3 {
+    -fx-fill: white;
+    -fx-stroke:red;
+    -fx-stroke-width: 2;
+}
+#poligono4 {
+    -fx-fill: white;
+    -fx-stroke:red;
+    -fx-stroke-width: 2;
+}
+#poligono5 {
+    -fx-fill: white;
+    -fx-stroke:red;
+    -fx-stroke-width: 2;
+}
+#poligono6 {
+    -fx-fill: white;
+    -fx-stroke:red;
+    -fx-stroke-width: 2;
+}
+#rectangle1 {
+    -fx-fill: white;
+    -fx-stroke:red;
+    -fx-stroke-width: 2;
+}
+.label{
+    -fx-background-color: black;
+}
